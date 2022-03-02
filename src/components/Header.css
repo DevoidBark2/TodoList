@@ -1,0 +1,26 @@
+.header{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 11px 7px 11px 14px;
+    border-radius: 50px;
+    align-items:center;
+    top:10px;
+}
+.input{
+    width: 850px;
+    height: 20px;
+    background-color:#fff;
+    font-size: 16px;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    border-radius:50px;
+    border: none;
+}
+.btn:hover{
+    background-color:#7247EC;
+    color:white;
+}

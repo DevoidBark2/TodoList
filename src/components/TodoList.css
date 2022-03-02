@@ -1,0 +1,15 @@
+.todolist{
+    width: 1020px;
+    height: 600px;
+    background-color:white;
+    border-radius:50px;
+    overflow: auto;
+}
+.todolist::-webkit-scrollbar{
+    width: 10px;
+    height: 100px;
+}
+.title{
+    margin-left: 40px;
+    font-size: 24px;
+}

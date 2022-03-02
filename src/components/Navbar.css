@@ -1,0 +1,24 @@
+.navbar{
+    width: 210px;
+    height: 600px;
+    background-color:white;
+    border-radius:50px;
+    text-align: center;
+    margin-right: 40px;
+}
+.navbar-link{
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+    margin-top: 70px;
+}
+.link-item{
+    text-decoration: none;
+    color:black;
+}
+.link-item:hover{
+    color:#7247EC;
+}
+.active{
+    color:blue;
+}

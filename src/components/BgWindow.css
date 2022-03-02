@@ -1,0 +1,14 @@
+.bgwindow{
+    width: 1020px;
+    height: 600px;
+    background-color:white;
+    border-radius:50px;
+}
+
+.bgwindow-content{
+    border:2px solid black;
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
